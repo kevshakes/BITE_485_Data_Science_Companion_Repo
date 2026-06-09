@@ -138,4 +138,4 @@ These materials are provided for educational use at Tharaka University. Redistri
 ---
 
 *BITE 485 Data Science | Tharaka University | Department of Computer Science and ICT*
-*kevin.tuei@tharaka.ac.ke | 0712 838 653*
+
