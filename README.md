@@ -19,8 +19,6 @@ The repository contains **11 Jupyter notebooks**, one per lecture, with fully an
 - Visualisations with Matplotlib and Seaborn
 - End-of-notebook exercises for self-assessment
 
-**Lecturer:** K. Tuei | kevin.tuei@tharaka.ac.ke | 0712 838 653
-
 ---
 
 ## Course Structure
